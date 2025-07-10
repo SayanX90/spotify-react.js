@@ -1,6 +1,6 @@
 
 🎵 Music Streaming Platform (React.js)
-A dynamic music streaming application built with React.js and Vite, designed to offer a Spotify-inspired experience with a unique twist for music discovery and accessibility.
+A dynamic and responsive music streaming application built using React.js, Vite, and Tailwind CSS, designed to offer a Spotify-inspired experience with a unique twist for music discovery and accessibility.
 
 🎸 Overview
 The Music Streaming Platform allows users to:
@@ -14,6 +14,8 @@ Enjoy a seamless experience across devices with offline capabilities.
 🎶 Mood-based music recommendations using text and audio input.
 ▶️ Interactive player with play/pause and playlist controls.
 📱 Fully responsive design using Tailwind CSS.
+🌐 Offline mode for music playback in low-connectivity areas.
+🎵 Voice-activated search and playlist creation.
 
 💻 Tech Stack
 React.js
@@ -21,6 +23,7 @@ Vite
 Tailwind CSS
 JavaScript (ES6+)
 HTML5
+CSS3
 
 🧠 Project Purpose
 This project is designed to:
@@ -30,6 +33,7 @@ Implement a unique multimodal feature combining text (mood input) and audio (voi
 Simulate a functional music streaming platform with offline support.
 Enhance skills in responsive design and user experience.
 
+---------------
 
 # React + Vite
 
